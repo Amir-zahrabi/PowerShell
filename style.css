@@ -1,0 +1,621 @@
+ header{
+    background-image: url(images/backgrand4.png
+    
+    
+    );
+    width: auto;
+    height: 450px;
+     background-size: cover;
+    object-fit: cover;
+    justify-content: center;
+
+   }
+  #man{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+    background-size: cover;
+    margin-left: 650px;
+    margin-top: 60px;
+    animation: fadeIn 2s ease;
+    
+  }
+
+  .myname{
+      text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-style: italic;
+    text-shadow: 3px 3px 5px rgb(193, 193, 254);
+   animation: fadeIn 3s ease;
+
+  }
+
+   body{
+    background-color: rgba(0, 9, 43, 0.908);
+   }
+
+.man2{
+   
+   
+   
+     width: 500px;
+     height: 500px; 
+     align-items: center;
+     justify-content: center;
+     background-size: cover;
+     object-fit: cover;
+     padding-top: 100px;
+     padding-left: 960px;
+     display: flex;
+     animation: fadeIn 3s ease;
+
+
+
+
+
+
+
+}
+
+.tozihat{
+   text-align: right;
+   margin-right: 600px;
+   color: aliceblue;
+   margin-top: -500px;
+animation: fadeIn 3s ease;
+
+  }
+
+  .info-box{
+     color: aliceblue;
+     text-align: right;
+     margin-right: 600px;
+     border: solid 2px red;
+     border-radius: 12px 12px 12px 12px ;
+     width: 500px;
+     margin-left: 400px;
+     padding: 10px;
+     animation: fadeIn 3s ease;
+     
+     
+  }
+
+
+ button{
+    width: 90px;
+    height: 35px;
+    font-size: 20px;
+    background-color: red;
+    color: aliceblue;
+    box-shadow: 4px 4px 6px rgb(138, 138, 138);
+    margin-left: 800px;
+    margin-top: 20px;
+    animation: fadeIn 3s ease;
+
+ }
+
+.nemone-kar{
+    border: solid 2px red;
+    width: 250px;
+    height: 330px;
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+    float: right;
+    margin-top: 190px;
+    margin-right: 100px;
+    box-shadow: 15px 12px 16px rgb(103, 103, 103);
+    animation: fadeIn 3s ease;
+
+
+
+
+
+}
+
+
+.sherkati{
+    width: 250px;
+    height: 250px;
+
+    align-items: center;
+     justify-content: center;
+     background-size: cover;
+     object-fit: cover;
+
+
+
+
+
+}
+
+.nemone-kar2{
+    border: solid 2px red;
+    width: 250px;
+    height: 330px;
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px ;
+    float: right;
+    margin-top: 190px;
+    margin-right: 270px;
+    box-shadow: 15px 12px 16px rgb(103, 103, 103);
+    animation: fadeIn 3s ease;
+
+
+
+}
+.shakhsi{
+
+
+
+    width: 250px;
+    height: 250px;
+
+    align-items: center;
+     justify-content: center;
+     background-size: cover;
+     object-fit: cover;
+     
+
+
+
+
+}
+
+.nemone-kar3{
+    border: solid 2px red;
+    width: 250px;
+    height: 330px;
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px ;
+    float: right;
+    margin-top: 180px;
+    margin-right: 270px;
+    box-shadow: 15px 12px 16px rgb(103, 103, 103);
+    animation: fadeIn 3s ease;
+
+
+
+}
+
+
+
+
+.shopi{
+
+
+   width: 250px;
+    height: 250px;
+
+    align-items: center;
+     justify-content: center;
+     background-size: cover;
+     object-fit: cover;
+     
+
+
+
+
+}
+
+
+#tashakkor{
+
+     border: solid 2px red;
+     border-radius: 7px 7px 7px 7px ;
+     width: auto;
+     height: 60px;
+     margin-top: 300px;
+     background-color: rgba(255, 0, 0, 0.745);
+     text-align: center;
+     font-size: 20px;
+     color: whitesmoke;
+  
+
+
+
+
+
+}
+
+
+
+.pp1{
+
+
+  font-size: 18px
+
+}
+
+
+
+.pp2{
+
+
+
+  font-size: 20px;
+
+
+}
+
+
+
+
+
+  @keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+ 
+
+ table{
+
+         border: 2px solid red;
+         width: 600px;
+         height: 400px;
+         margin-left: auto;
+         margin-right: auto;
+         margin-top: 40rem;
+         border-radius: 5px 5px 5px 5px;
+           background-color: rgb(0, 9, 43);
+    box-shadow: 15px 12px 16px rgb(103, 103, 103);
+          
+
+
+ 
+    
+
+
+
+    }
+  
+.contact {
+  text-align: center;
+  direction: rtl;
+  font-family: sans-serif;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  margin: 10px;
+  display: inline-block;
+  transition: color 0.3s;
+}
+
+.contact i {
+  margin-left: 8px;
+  font-size: 22px;
+  vertical-align: middle;
+}
+
+.contact a:hover {
+  color: #007bff;
+}
+
+
+
+.aaa{
+ text-align: right;  
+ color: #007bff;
+ margin-right: 20px;
+}
+
+
+
+
+
+
+@media(max-width : 600px){
+  
+     body{
+        
+       width: 600px;
+       height: auto;
+
+
+     }
+
+
+
+
+   header{
+      width: 100%;
+      height: 25%;
+
+
+   }
+
+
+
+   .myname{
+
+      font-size: 1rem;
+     
+   }
+
+
+   #man{
+
+
+    height: 50%;
+    width: 20%;
+    margin-top: 3.5rem;
+    margin-left: 15rem;
+    
+
+   }
+
+
+
+
+   .man2{
+
+       
+    width: 20%;
+    height: 25%;
+    padding-left: 30rem;
+
+
+
+
+
+
+   }
+ 
+
+.tozihat{
+
+
+   font-size: 1vh;
+   text-align: right;
+   margin-right: 8rem;
+   padding-top: 15rem;
+
+
+}
+
+
+.info-box{
+
+   width: 55%;
+   height: 9,5%;
+   margin-left: 7.5rem;
+   font-size: 1vh;
+  
+
+
+
+}
+
+.pp1{
+
+  
+  font-size: 1vh;
+  
+}
+
+.pp2{
+
+  font-size: 1vh
+
+
+}
+
+
+ .nemone-kar , .nemone-kar2 , .nemone-kar3{
+
+    width: 20%;
+    height: 25%;
+   margin-right: 3rem;
+   margin-top: 7rem;
+
+
+
+
+}
+
+
+.shakhsi , .sherkati , .shopi{
+
+width: 100%;
+height: 70%;
+
+
+
+    
+}
+
+
+
+table{
+
+  width: 80%;
+  height: 50%;
+
+
+
+
+}
+
+
+
+#tashakkor{
+
+
+
+   margin-top: 20%;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+
+
+}
+
+
+
+
+@media (min-width : 601px) and (max-width :1024px) {
+
+
+
+
+
+   header{
+      width: 100%;
+      height: 25%;
+
+
+   }
+
+
+
+   .myname{
+
+      font-size: 2rem;
+     
+   }
+
+
+   #man{
+
+
+    height: 50%;
+    width: 20%;
+    margin-top: 3.5rem;
+    margin-left: 25rem;
+    
+
+   }
+
+
+
+
+   .man2{
+
+       
+    width: 30%;
+    height: 45%;
+    padding-left: 45rem;
+
+
+
+
+
+
+   }
+ 
+
+.tozihat{
+
+
+   font-size: 1.8vh;
+   text-align: right;
+   margin-right: 19rem;
+   padding-top: 2.5rem;
+
+
+}
+
+
+.info-box{
+
+   width: 55%;
+   height: 9,5%;
+   margin-left: 7.5rem;
+   font-size: 1vh;
+  
+
+
+
+}
+
+.pp1{
+
+  
+  font-size: 2vh;
+  
+}
+
+.pp2{
+
+  font-size: 2vh
+
+
+}
+
+
+ .nemone-kar , .nemone-kar2 , .nemone-kar3{
+
+    width: 20%;
+    height: 25%;
+   margin-right: 6rem;
+   margin-top: 7rem;
+
+
+
+
+}
+
+
+.shakhsi , .sherkati , .shopi{
+
+width: 100%;
+height: 70%;
+
+
+
+    
+}
+
+
+
+table{
+
+  width: 80%;
+  height: 50%;
+
+
+
+
+}
+
+
+
+#tashakkor{
+
+
+  
+
+
+
+   margin-top: 20%;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+}
