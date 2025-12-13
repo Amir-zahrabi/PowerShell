@@ -256,76 +256,6 @@ animation: fadeIn 3s ease;
 
 
 
-  @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
- 
-
- table{
-
-         border: 2px solid red;
-         width: 600px;
-         height: 400px;
-         margin-left: auto;
-         margin-right: auto;
-         margin-top: 40rem;
-         border-radius: 5px 5px 5px 5px;
-           background-color: rgb(0, 9, 43);
-    box-shadow: 15px 12px 16px rgb(103, 103, 103);
-          
-
-
- 
-    
-
-
-
-    }
-  
-.sss{
-  font-size: 1rem;
-   
-}
-
-.contact {
-  text-align: center;
-  direction: rtl;
-  font-family: sans-serif;
-}
-
-.contact a {
-  text-decoration: none;
-  color: #333;
-  font-size: 18px;
-  margin: 10px;
-  display: inline-block;
-  transition: color 0.3s;
-}
-
-.contact i {
-  margin-left: 8px;
-  font-size: 22px;
-  vertical-align: middle;
-}
-
-.contact a:hover {
-  color: #007bff;
-}
-
-
-
-.aaa{
- text-align: right;  
- color: #007bff;
- margin-right: 20px;
-}
-
-
-
-
-
-
 @media(max-width : 600px){
   
      body{
@@ -633,6 +563,7 @@ html, body {
 
 
 }
+
 
 
 
