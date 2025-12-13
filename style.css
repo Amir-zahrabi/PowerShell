@@ -1,5 +1,5 @@
  header{
-    background-image: url(backgrand4.png
+    background-image: url(images/backgrand4.png
     
     
     );
@@ -58,6 +58,11 @@
 
 
 
+
+}
+
+.sss{
+ font-size: 20px;
 
 }
 
@@ -278,6 +283,11 @@ animation: fadeIn 3s ease;
 
     }
   
+.sss{
+  font-size: 1rem;
+   
+}
+
 .contact {
   text-align: center;
   direction: rtl;
@@ -357,7 +367,9 @@ animation: fadeIn 3s ease;
    }
 
 
-
+   .sss{ 
+     font-size: 1rem;
+   }
 
    .man2{
 
@@ -380,7 +392,7 @@ animation: fadeIn 3s ease;
    font-size: 1vh;
    text-align: right;
    margin-right: 8rem;
-   padding-top: 12rem;
+   padding-top: 8rem;
 
 
 }
@@ -621,4 +633,3 @@ html, body {
 
 
 }
-
