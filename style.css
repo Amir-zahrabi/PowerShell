@@ -90,6 +90,18 @@ animation: fadeIn 3s ease;
   }
 
 
+
+table{
+   width: 500px;
+   height: 500px;
+   margin-left: 500px;
+   background-color: rgba(0, 9, 43, 0.511);
+   box-shadow: 20px 20px 40px whitesmoke;
+   border-radius:  20px;
+   border: 2px red solid;
+   
+
+}
  button{
     width: 90px;
     height: 35px;
@@ -187,7 +199,7 @@ animation: fadeIn 3s ease;
     margin-right: 270px;
     box-shadow: 15px 12px 16px rgb(103, 103, 103);
     animation: fadeIn 3s ease;
-
+ margin-bottom: 200px;
 
 
 }
@@ -322,7 +334,7 @@ animation: fadeIn 3s ease;
    font-size: 1vh;
    text-align: right;
    margin-right: 8rem;
-   padding-top: 16rem;
+   padding-top: 14rem;
 
 
 }
@@ -382,8 +394,9 @@ height: 70%;
 
 table{
 
-  width: 80%;
-  height: 50%;
+  width: 50%;
+  height: 30%;
+  margin-left: 30%;
 
 
 
@@ -563,6 +576,7 @@ html, body {
 
 
 }
+
 
 
 
